@@ -23,7 +23,7 @@
  * подставив вместо x y z q значения переменных
  */
 
-// const firstName = '';
-// const lastName = '';
-// const type = '';
-// const room = 1;
+// const firstName = 'Chelsy';
+// const lastName = 'Emerald';
+// const type = 'VIP';
+// const room = 716;
